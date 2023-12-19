@@ -1,6 +1,6 @@
 {
-    "name": "jrc-react-native-cookies",
-    "version": "7.0.0",
+    "name": "rjc-react-native-cookies",
+    "version": "7.0.1",
     "description": "Cookie Manager for React Native",
     "repository": {
       "type": "git",
